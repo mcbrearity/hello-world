@@ -1,2 +1,2 @@
 # hello-world
-trial run repository
+Trial Run Tutorial Repository
